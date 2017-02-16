@@ -1,0 +1,17 @@
+body {
+  font-size: 50px;
+}
+#age {
+  margin-left: 30%;
+  margin-top: 10%;
+  color: grey;
+}
+#year {
+  display: inline-block;
+  margin-left: 30%;
+  font-size: 120px;
+}
+#rest {
+  display: inline-block;
+  font-size: 50px;
+}
